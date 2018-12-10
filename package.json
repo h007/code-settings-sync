@@ -165,7 +165,7 @@
     "vscode": "^1.1.21"
   },
   "dependencies": {
-    "@octokit/rest": "^16.0.1",
+    "@octokit/rest": "^16.2.0",
     "adm-zip": "^0.4.13",
     "chokidar": "^2.0.4",
     "fs-extra": "^7.0.1",
